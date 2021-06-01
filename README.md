@@ -22,3 +22,8 @@ Download the project and open it using Unity Hub with the recommended Unity vers
 In order to only play the game, you can download the project and go to: **TIC_TAC_TOE_AI > Builds** and run the application: **TIC_TAC_TOE_AI.exe**
 
 Eventually if you opened it with Unity, you can directly test it in the Unity Editor or you can build it yourself.
+
+## How to play
+
+You have the first move so, when the game start, click on one of the square of the board to sign it with an "O" mark. The AI will reply to your move soon after with the "X" mark.
+When the game is over, you can press the button "Try Again" to start a new game.
