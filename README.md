@@ -5,3 +5,6 @@ Here you can find the game already built (for Windows only) and the Unity projec
 ![screenshot](screenshots/screenshot-tictactoe_50.jpg)
 
 ## Requirements
+
+if you only want to run the application and play:
+ - Windows 64bit
