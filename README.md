@@ -29,5 +29,5 @@ The rules are the classic rules of Tic Tac Toe: [`Rules`][rules-link].
 
 [rules-link]: https://en.wikipedia.org/wiki/Tic-tac-toe
 
-You have the first move so, when the game start, click on one of the squares of the board to sign it with an "**O**" mark. Soon after the AI will reply to your move with the "**X**" mark.
+You have the first move so, when the game starts, click on one of the squares of the board to sign it with an "**O**" mark. Soon after the AI will reply to your move with the "**X**" mark.
 When the game is over, you can press the button "Try Again" to start a new game.
