@@ -25,6 +25,6 @@ Eventually if you opened it with Unity, you can directly test it in the Unity Ed
 
 ## How to play
 
-You have the first move so, when the game start, click on one of the square of the board to sign it with an "**O**" mark. Soon after the AI will reply to your move with the "**X**" mark.
+You have the first move so, when the game start, click on one of the squares of the board to sign it with an "**O**" mark. Soon after the AI will reply to your move with the "**X**" mark.
 When the game is over, you can press the button "Try Again" to start a new game.
 
