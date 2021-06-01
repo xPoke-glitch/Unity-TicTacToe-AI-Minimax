@@ -19,6 +19,6 @@ Download the project and open it using Unity Hub with the recommended Unity vers
 
 ## Run the app
 
-In order to only play the game, you can download the project and go to: **TIC_TAC_TOE_AI > Builds** and run the application: **TIC_TAC_TOE_AI.exe**.
+In order to only play the game, you can download the project and go to: **TIC_TAC_TOE_AI > Builds** and run the application: **TIC_TAC_TOE_AI.exe**
 
-Eventually if you opened it with Unity, you can directly test it using the Unity Editor or you can build it yourself.
+Eventually if you opened it with Unity, you can directly test it in the Unity Editor or you can build it yourself.
