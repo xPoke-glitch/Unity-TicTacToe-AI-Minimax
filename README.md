@@ -25,7 +25,7 @@ Eventually if you opened it with Unity, you can directly test it in the Unity Ed
 
 ## How to play
 
-The rules are the classic rules of Tic Tac Toe: [`Rules`][rules-link].
+The rules of Tic Tac Toe are described here: [`Rules`][rules-link].
 
 [rules-link]: https://en.wikipedia.org/wiki/Tic-tac-toe
 
