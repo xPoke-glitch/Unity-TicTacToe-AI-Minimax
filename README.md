@@ -13,6 +13,10 @@ If you want to open, edit or see the Unity project:
  - Unity 2020.1.1f1 (or greater)
  - You can use Unity versions before the 2020.1.1f1 but errors may will occur
 
-## Get the app
+## Get the Unity project
+
+Download the project and open it using Unity Hub with the recommended Unity version **2020.1.1f1** (or greater)
+
+## Run the app
 
 In order to only play the game, you can download the project and go to: **TIC_TAC_TOE_AI > Builds** and run the application: **TIC_TAC_TOE_AI.exe**
