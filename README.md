@@ -23,7 +23,7 @@ Download the project and open it using Unity Hub with the recommended Unity vers
 
 In order to play only the game, you can download the project and go to: **TIC_TAC_TOE_AI > Builds** and run the application: **TIC_TAC_TOE_AI.exe**
 
-In case if you will open it with Unity, you can directly test it in the Unity Editor or you can build it yourself.
+In case you will open it with Unity, you can directly test it in the Unity Editor or you can build it yourself.
 
 ## How to play
 
@@ -31,7 +31,7 @@ The rules of Tic Tac Toe are described here: [`Rules`][rules-link].
 
 [rules-link]: https://en.wikipedia.org/wiki/Tic-tac-toe
 
-You have the first move so, when the game starts, click on one of the squares of the board to mark it with an "**O**". Soon after the AI will reply to your move, marking with "**X**".
+You have the first move so, when the game starts, click on one of the squares of the board to mark it with an "**O**". Soon after the AI will reply to your move, it will mark with "**X** one of the free squares".
 When the game is over, you can press the button "Try Again" to start a new game.
 
 Press ALT+F4 to exit the game.
