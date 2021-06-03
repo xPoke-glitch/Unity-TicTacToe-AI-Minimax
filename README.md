@@ -31,7 +31,7 @@ The rules of Tic Tac Toe are described here: [`Rules`][rules-link].
 
 [rules-link]: https://en.wikipedia.org/wiki/Tic-tac-toe
  
-You have the first move so, when the game starts, click on one of the squares of the board to mark it with an "**O**". Soon after the AI will reply to your move, it will mark with "**X** one of the free squares".
+You have the first move so, when the game starts, click on one of the squares of the board to mark it with an "**O**". Soon after the AI will reply to your move, it will mark with "**X**" one of the free squares.
 When the game is over, you can press the button "Try Again" to start a new game.
 
 Press ALT+F4 to exit the game.
